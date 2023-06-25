@@ -1,3 +1,11 @@
+# GitFind
+
+Simple project created for my study of React.
+In this project i used GitHub API to search for users and their repositories.\
+I've leaned:\
+*The basics of React lib, folder and file structures\
+*Consuming REST APIs using fetch in React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
